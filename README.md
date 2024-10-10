@@ -105,6 +105,10 @@ The model was trained using TensorFlow on the Kaggle dataset mentioned earlier. 
 - Implementing more advanced post-processing techniques to improve pose classification.
 - Extending the project to classify more yoga poses or other physical activities.
 
+## Contributor
+
+This repository is maintained by [Nitin Yadav](https://github.com/NitinYadav1511).
+
 ## License
 
 This project is licensed under the MIT License.
